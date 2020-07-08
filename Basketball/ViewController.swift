@@ -56,10 +56,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         
         
-        //transform matrix
-        // the orientation
-        // the location of the camera
-        // we need the oritentation and location to determine the position of the camera and it's at this point in which we want the ball to be placed
          
         
         let cameraTransform = centerPoint.transform
